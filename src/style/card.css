@@ -1,0 +1,40 @@
+.dress-cards {
+    max-width: 50vw;
+    height: 50vh;
+    margin: 1rem auto;
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.dress-card {
+    padding: 1rem;
+    position: relative;
+    background-color: #fff;
+    border-radius: 0.3rem;
+    box-shadow: -1px 6px 18px -7px rgba(28, 10, 44, 0.3);
+}
+
+.card-img-container {
+    width: 30vh; 
+    height: 35vh; 
+}
+
+.card-img-container img {
+    width: 100%; 
+    height: 100%;
+    object-fit: contain; 
+}
+
+.dress-cards h3 {
+    font-size: 1.3em;
+    margin-bottom: 1rem;
+    color: rgb(102, 102, 102);
+}
+
+.swipe {
+    position: absolute;
+}
+
