@@ -7,11 +7,11 @@
 Check it out under this link:
 
 
-### Technology
+### Project Technology
 
 React, HTML, CSS
 
-### Dependencies
+### Projects Dependencies
 
 ```
 npm i @material-ui/core
